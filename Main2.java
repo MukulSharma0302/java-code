@@ -37,7 +37,7 @@
     }
 }
 
-public class ShapeDemo {
+public class Main2 {
     public static void main(String[] args) {
         // Create circle object with radius 7
         Shape circle = new Shape(7);
@@ -48,3 +48,4 @@ public class ShapeDemo {
         rectangle.areaRectangle();
     }
 }
+
