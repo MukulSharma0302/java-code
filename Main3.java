@@ -36,7 +36,7 @@ class Rectangle extends Shape {
     }
 }
 
-public class HierarchicalInheritanceDemo {
+public class Main3 {
     public static void main(String[] args) {
         Circle c = new Circle(7);
         Rectangle r = new Rectangle(10, 5);
@@ -45,3 +45,4 @@ public class HierarchicalInheritanceDemo {
         r.area();
     }
 }
+
